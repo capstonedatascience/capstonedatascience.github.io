@@ -1,10 +1,10 @@
 - name: Syllabus
-  link: /SyllabusSTA6257.html
+  link: /Syllabus.html
 - name: Project Instructions 
   link: /instructions.html
 - name: Template for project report
   link: https://github.com/acohenstat/STA6257_Project
 - name: Previous Projects
   link: /PreviousProjects.html
-- name: Reporting Tips 
-  link: Slides/slide_tips.html
+# - name: Reporting Tips 
+#   link: Slides/slide_tips.html

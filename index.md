@@ -1,5 +1,5 @@
 ---
-title: STA6257 - Advanced Statistical Modeling - Capstone Project
+title: "IDC6940 Capstone for Data Science"
 layout: page
 #callouts: home_callouts
 show_sidebar: false

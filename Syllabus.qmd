@@ -1,5 +1,5 @@
 ---
-title: 'STA6257: Advanced Statistical Modeling'
+title: 'IDC 6940 Capstone for Data Science'
 subtitle: "Syllabus"
 #author: "Syllabus"
 #date: "Last updated: `r Sys.Date()`"
@@ -24,12 +24,12 @@ knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
 -   **Instructor**: Dr. Achraf Cohen
 -   **Email**: [acohen\@uwf.edu](mailto:acohen@uwf.edu){.email}
 -   **Class Meetings**: TR @6:00PM to 7:15PM
--   **Email policy**: Please put **STA6257** in the email subject
+-   **Email policy**: Please put **IDC6940** in the email subject
 -   **Zoom Link**: [https://uwf.zoom.us/my/acohen](https://uwf.zoom.us/my/acohen){target="_blank"}
 -   **Class Meetings**: Online Learning
 -   **Course Materials**: [Canvas](https://uwf.instructure.com/){target="_blank"}
 -   **Office Hours**: Online by appointment
--   **Course Outline** [acohenstat.github.io/STA6257/](https://acohenstat.github.io/STA6257/){target="_blank"}
+-   **Course Outline** [https://capstonedatascience.github.io/](https://capstonedatascience.github.io/){target="_blank"}
 
 <!-- You may schedule an appointment for office hours through Navigate following [these instructions](https://confluence.uwf.edu/display/public/Schedule+an+Appointment+with+your+Academic+Advisor%2C+an+Academic+Support+office%2C+or+Faculty+Office+Hours): -->
 
@@ -43,7 +43,7 @@ knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
 
 ## Course Description
 
-This course will provide you with an opportunity to apply the knowledge and skills that they you have gained in the program. This final project will allow student to gain experience in data wrangling, data visualization, statistical modeling and prediction, machine learning applications, reporting and presenting the results. Upon the completion of this course, you will have a data product (paper and slides) to show to potential hiring managers; [see Tentative Schedule](https://acohenstat.github.io/STA6257/){target="_blank"}
+This course will provide you with an opportunity to apply the knowledge and skills that they you have gained in the program. This final project will allow student to gain experience in data wrangling, data visualization, statistical modeling and prediction, machine learning applications, reporting and presenting the results. Upon the completion of this course, you will have a data product (paper and slides) to show to potential hiring managers; [see Tentative Schedule](https://capstonedatascience.github.io/){target="_blank"}
 
 ```{=html}
 <!--## Topics
@@ -71,7 +71,7 @@ At the completion of this course, students will be able to:
 
 There is no required textbooks for this course. Course Materials are posted on Canvas. Lectures will be recorded and posted on Canvas.
 
-> **Course Outline**: [acohenstat.github.io/STA6257/](https://acohenstat.github.io/STA6257/){target="_blank"}
+> **Course Outline**: [https://capstonedatascience.github.io/](https://capstonedatascience.github.io/){target="_blank"}
 
 <!-- if you choose to have your video on, you may show up on the recording. If you choose to use the microphone to ask questions, your voice will be captured on the recording. If you do not feel comfortable with either of these items, please do not turn on your video and do not use the microphone to ask questions. I will monitor the chat throughout lecture and will read questions aloud before answering them. **Lecture notes and videos will be posted to Canvas within two business days.**  -->
 
@@ -101,13 +101,14 @@ There is no required textbooks for this course. Course Materials are posted on C
 
 <!-- ``` -->
 
-## Grading and Evaluation
+## Grading and Evaluation 
 
 The course grade will be determined as follows:
 
 -   Quizzes Project Progress (#12): 60%
 -   Oral Presentation - Slides (#1): 20%
 -   Final Paper Project  (#1): 20%
+
 
 <!-- 1. Homework/Quizzes (40%): There will be a timed quiz taken through Canvas every weekend that is similar to the assigned homework. You must upload a readable scan -- a single PDF file -- of your written work to the appropriate dropbox on Canvas within 5 minutes of completing the quiz. To allow for flexibility with life/work scheduling, **the quizzes will open on Friday and are due on Sunday night at 11:59 pm, Central.** The two lowest quiz grades will be excluded from the quiz average. -->
 

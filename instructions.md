@@ -31,4 +31,4 @@ You are free to propose a **topic** if there is something you are interested in 
 #### Useful links
 
 - Data Sets: [https://acohenstat.github.io/Datasets/](https://acohenstat.github.io/Datasets/)
-- GitHub Page for the project: [https://github.com/acohenstat/STA6257_Project](https://github.com/acohenstat/STA6257_Project)
+

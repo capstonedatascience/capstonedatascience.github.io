@@ -1,5 +1,5 @@
 ---
-title: STA6257 - Advanced Statistical Modeling
+title: IDC 6940 Capstone for Data Science
 subtitle: Previous Projects
 layout: page
 #callouts: home_callouts
