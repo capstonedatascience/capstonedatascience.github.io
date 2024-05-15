@@ -1,7 +1,6 @@
 ---
 title: "IDC6940 Capstone for Data Science"
 layout: page
-#callouts: home_callouts
 show_sidebar: false
 ---
 
